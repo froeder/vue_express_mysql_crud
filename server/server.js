@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const uuid = require('uuid');
 
 const app = express();
-const port = 3002;
+const port = 3001;
 
 //Altere para os dados do seu banco
 const host = 'localhost'
